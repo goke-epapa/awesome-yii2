@@ -10,6 +10,7 @@
 - [Books](#books)
 - [Community](#community)
 - [Forum](#forums)
+- [Social Networks](#social-networks)
 - [Contributing](#contributing)
 
 ## Essentials
