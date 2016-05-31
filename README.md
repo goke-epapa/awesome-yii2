@@ -9,7 +9,7 @@
 - [Made With Yii 2](#made-with-yii-2)
 - [Books](#books)
 - [Community](#community)
-- [Forum](#forums)
+- [Forum](#forum)
 - [Social Networks](#social-networks)
 - [Contributing](#contributing)
 
