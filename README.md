@@ -82,4 +82,4 @@ Found an awesome package, article, blog, video, tutorial etc.? Send me a pull re
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-This work (Awesome Lumen) is free of known copyright restrictions.
+This work (Awesome Yii 2) is free of known copyright restrictions.
