@@ -59,6 +59,7 @@
 
 ## Community
 * [StackOverflow](http://stackoverflow.com/questions/tagged/yii2)
+* [My Yii](https://www.my-yii.com/) - Yii Framework Community web is powerful source of information which helps you find and share tips and tricks how to create, manage and enhance your awesome Yii applications.
 
 ## Forum
 * [Yii 2 Forum](http://www.yiiframework.com/forum/index.php/forum/4-yii-20/)
