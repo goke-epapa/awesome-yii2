@@ -41,7 +41,7 @@
 * [Yii2 Dashboard](https://cornernote.github.io/yii2-dashboard/) - Create and manage dashboards using custom layouts and panels.
 * [http://foundationize.com/](http://foundationize.com/) - Yii2 with Foundation 6
 * [Phundament 4](http://phundament.com/) - Dockerized PHP Application Template for Yii 2.0
-* [Yii 2 jsTree Component](http://yiidreamteam.com/yii2/jstree) 
+* [Yii 2 jsTree Component](http://yiidreamteam.com/yii2/jstree) - jsTree is jquery plugin, that provides interactive trees.  
 
 ## Made With Yii 2
 * [HumHub](https://www.humhub.org/en) - The flexible Open Source Social Network Kit
