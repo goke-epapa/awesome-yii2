@@ -24,6 +24,7 @@
 * [Yii 2 PAjax Tutorial](http://blog.neattutorials.com/yii2-pjax-tutorial/)
 * [How to Program With Yii2: Using the Advanced Application Template](http://code.tutsplus.com/tutorials/how-to-program-with-yii2-using-the-advanced-application-template--cms-24994)
 * [Yii 2 Tutorials](http://www.learnyii2.com/)
+* [Yii 2 Cookbook](https://yii2-cookbook.readthedocs.io/README/)
 
 ## Videos
 * [Learning Yii 2](https://www.packtpub.com/web-development/learning-yii-2-video)
